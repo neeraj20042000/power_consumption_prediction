@@ -17,5 +17,5 @@ Machine Learning Models used are Linear Regresseion, Decision Trees, Random Fore
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/neeraj20042000/capstone_net_worth.git
+git clone https://github.com/neeraj20042000/power_consumption_prediction.git
 ```
